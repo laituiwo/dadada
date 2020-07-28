@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.phui.cn</id>
     <title>野人二狗</title>
-    <updated>2020-07-28T07:17:31.379Z</updated>
+    <updated>2020-07-28T08:37:27.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.phui.cn"/>
     <link rel="self" href="https://blog.phui.cn/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://blog.phui.cn/images/avatar.png</logo>
     <icon>https://blog.phui.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 野人二狗</rights>
+    <entry>
+        <title type="html"><![CDATA[疫情期间设计的户外网站]]></title>
+        <id>https://blog.phui.cn/BCUfy_kVl/</id>
+        <link href="https://blog.phui.cn/BCUfy_kVl/">
+        </link>
+        <updated>2020-03-17T08:28:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面板后台 Dashboard Design 2019]]></title>
+        <id>https://blog.phui.cn/D9wbJwfUK/</id>
+        <link href="https://blog.phui.cn/D9wbJwfUK/">
+        </link>
+        <updated>2019-12-17T08:06:22.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[租房APP HOUSING UI和LOGO设计]]></title>
         <id>https://blog.phui.cn/tbDD9d_-B/</id>
@@ -23,26 +37,6 @@
         <link href="https://blog.phui.cn/qSS5gq4uY/">
         </link>
         <updated>2019-02-20T07:14:39.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://blog.phui.cn/about/</id>
-        <link href="https://blog.phui.cn/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://blog.phui.cn/hello-gridea/</id>
-        <link href="https://blog.phui.cn/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A New App UI Design]]></title>
