@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.phui.cn</id>
     <title>野人二狗</title>
-    <updated>2020-07-28T06:24:22.272Z</updated>
+    <updated>2020-07-28T07:17:07.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.phui.cn"/>
     <link rel="self" href="https://blog.phui.cn/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://blog.phui.cn/images/avatar.png</logo>
     <icon>https://blog.phui.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 野人二狗</rights>
+    <entry>
+        <title type="html"><![CDATA[租房APP HOUSING UI和LOGO设计]]></title>
+        <id>https://blog.phui.cn/tbDD9d_-B/</id>
+        <link href="https://blog.phui.cn/tbDD9d_-B/">
+        </link>
+        <updated>2019-02-28T07:15:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交友APP SPLICE UI和LOGO设计]]></title>
+        <id>https://blog.phui.cn/qSS5gq4uY/</id>
+        <link href="https://blog.phui.cn/qSS5gq4uY/">
+        </link>
+        <updated>2019-02-20T07:14:39.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://blog.phui.cn/about/</id>
@@ -31,10 +45,45 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PAD上的BANNER手机APP引导页]]></title>
-        <id>https://blog.phui.cn/_lwcQjmGE/</id>
-        <link href="https://blog.phui.cn/_lwcQjmGE/">
+        <title type="html"><![CDATA[A New App UI Design]]></title>
+        <id>https://blog.phui.cn/A-New-App-UI-Design/</id>
+        <link href="https://blog.phui.cn/A-New-App-UI-Design/">
         </link>
-        <updated>2015-09-07T08:14:54.000Z</updated>
+        <updated>2018-08-06T07:47:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个餐厅的官网设计]]></title>
+        <id>https://blog.phui.cn/restaurant-website-design/</id>
+        <link href="https://blog.phui.cn/restaurant-website-design/">
+        </link>
+        <updated>2018-07-18T01:30:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春秋航空会员日专题]]></title>
+        <id>https://blog.phui.cn/uKgyDxSu5/</id>
+        <link href="https://blog.phui.cn/uKgyDxSu5/">
+        </link>
+        <updated>2018-07-15T02:59:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个家具定制厂官网设计]]></title>
+        <id>https://blog.phui.cn/DS6h3fCvg/</id>
+        <link href="https://blog.phui.cn/DS6h3fCvg/">
+        </link>
+        <updated>2018-06-12T02:55:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 一个鲜花网站]]></title>
+        <id>https://blog.phui.cn/p_mN62cI_/</id>
+        <link href="https://blog.phui.cn/p_mN62cI_/">
+        </link>
+        <updated>2018-04-19T06:54:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西藏印象手册设计]]></title>
+        <id>https://blog.phui.cn/DivhqzYvj/</id>
+        <link href="https://blog.phui.cn/DivhqzYvj/">
+        </link>
+        <updated>2018-03-14T07:42:43.000Z</updated>
     </entry>
 </feed>
